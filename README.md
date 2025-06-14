@@ -1,5 +1,5 @@
-# johar-infratech-website
-Official website for Johar InfraTech
+# Johar-Tech-Labs-website
+Official website for Johar Tech Labs
 
-This is the official website for Johar InfraTech, a Jharkhand-based MSME.
+This is the official website forJohar Tech Labs, a Jharkhand-based MSME.
 
